@@ -1,0 +1,96 @@
+[
+    {
+        "name": "iPhone",
+        "products": [
+            {
+                "name": "iPhone 15",
+                "productDescription": "Introduces a new design, improved camera system, and the A16 Bionic chip."
+            },
+            {
+                "name": "iPhone 15 Plus",
+                "productDescription": "Features a larger display with all the advancements of the iPhone 15."
+            },
+            {
+                "name": "iPhone 15 Pro",
+                "productDescription": "Offers advanced photography and videography capabilities, ProMotion display, and premium materials."
+            },
+            {
+                "name": "iPhone 15 Pro Max",
+                "productDescription": "The largest and most advanced version, with top-tier specs in the iPhone 15 line."
+            }
+        ]
+    },
+    {
+        "name": "Apple Watch",
+        "products": [
+            {
+                "name": "Apple Watch Series 9",
+                "productDescription": "Features a new S9 chip, double-tap gesture, and brighter display."
+            },
+            {
+                "name": "Apple Watch Ultra 2",
+                "productDescription": "Brings improvements over its predecessor with new health and fitness functionalities, and a robust design for adventurers."
+            }
+        ]
+    },
+    {
+        "name": "MacBook",
+        "products": [
+            {
+                "name": "15-inch MacBook Air",
+                "productDescription": "Offers a 15.3-inch Liquid Retina display, 1080p FaceTime camera, and up to 18 hours of battery life."
+            },
+            {
+                "name": "MacBook Air with M3",
+                "productDescription": "Introduces the new M3 chip offering enhanced performance and energy efficiency."
+            }
+        ]
+    },
+    {
+        "name": "Mac",
+        "products": [
+            {
+                "name": "Mac mini with M2 and M2 Pro",
+                "productDescription": "Revamps its performance with M2 and M2 Pro chips, delivering impressive power and connectivity in a compact design."
+            },
+            {
+                "name": "Mac Studio (2023)",
+                "productDescription": "Boosts creativity with M2 Max and M2 Ultra, delivering exceptional performance in a compact design."
+            },
+            {
+                "name": "Mac Pro (2023)",
+                "productDescription": "The ultimate workstation with M3 Pro and M3 Max chip options, targeting professionals seeking peak performance."
+            }
+        ]
+    },
+    {
+        "name": "iPad",
+        "products": [
+            {
+                "name": "14-inch iPad Pro",
+                "productDescription": "Introduces a 14-inch screen with Liquid Retina XDR display technologies and ProMotion."
+            },
+            {
+                "name": "iPad mini 7th generation",
+                "productDescription": "Refreshes the processor while maintaining the compact design and classic functionalities."
+            }
+        ]
+    },
+    {
+        "name": "Accessories and Others",
+        "products": [
+            {
+                "name": "HomePod (2nd Generation)",
+                "productDescription": "Introduces acoustic enhancements, S7 chip, compatibility with Matter, and new temperature and humidity sensors."
+            },
+            {
+                "name": "Apple Reality Pro headset",
+                "productDescription": "AR-VR headset featuring over 10 cameras, various sensors, and an M2 chip alongside a dedicated chip."
+            },
+            {
+                "name": "Mini-LED Pro Display XDR",
+                "productDescription": "A new version of the Pro Display XDR featuring Mini-LED technology."
+            }
+        ]
+    }
+]
